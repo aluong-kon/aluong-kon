@@ -1,67 +1,86 @@
-# Hey there, I'm Miles (Aluong Yak Kon) 👋
+<!--
+GitHub profile README for Aluong Yak Kon (Miles).
+Keep project status and technical claims aligned with what is implemented in each repository.
+-->
 
-### Data Analyst | AI Builder | Technology Innovator | Founder
+<div align="center">
 
-I'm a data analytics practitioner and technology innovator interested in using **data, artificial intelligence, and software engineering to solve real-world problems**.
+# Miles (Aluong Yak Kon)
 
-I build data-driven projects, experiment with AI-powered applications, and explore practical digital solutions for communities across Africa.
+### Data Analyst · Applied AI Builder · Technology Innovator
 
-My mission: **Build technology that solves African problems and creates opportunities.** 🌍
+**Turning data into decisions. Building practical AI for real-world problems.**
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-aluong--kon-181717?style=flat&logo=github)](https://github.com/aluong-kon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/aluong-kon/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:aluongyakkon23@gmail.com)
 
-## 👨‍💻 What I'm Up To
-
-- 🔭 **Working on:** Data analytics projects, AI applications, and community-focused technology.
-- 🌱 **Learning:** Python, SQL, software engineering, Generative AI, and agentic AI.
-- 🚀 **Building:** NileAI, CivicFix AI, NyumbaGO, and other technology experiments.
-- 💼 **Founder:** BluePeak Advisory Agency — data analytics, strategy, and Monitoring & Evaluation consulting.
-- 🤝 **Open to:** Collaborations in AI, analytics, open source, and social innovation.
-- 🎯 **Career interests:** Data Analytics, Forward Deployed Engineering, AI Engineering, and technology entrepreneurship.
-- 💬 **Ask me about:** Python, SQL, Power BI, data analytics, and building technology products.
+</div>
 
 ---
 
-## 🚀 Projects
+## About
 
-| Project | What it explores | Technologies |
+I am a data analytics practitioner and applied-AI builder focused on using technology to solve practical problems in business, public services, and underserved communities.
+
+My work sits at the intersection of **data analytics, software development, and AI experimentation**. I take projects from problem definition and data exploration through prototypes, dashboards, and user-focused solutions.
+
+I am especially interested in building useful technology for **Kenya, Kakuma, and South Sudan**—including tools that improve access to information, strengthen community feedback, and support better decisions.
+
+- **Analytics:** data cleaning, exploratory analysis, SQL, business insights, and visualization.
+- **Applied AI:** language technology, AI-assisted workflows, and prototype development.
+- **Product building:** turning community and business problems into testable digital products.
+- **Leadership:** Founder & CEO of **BluePeak Advisory Agency**, focused on analytics, strategy, and Monitoring & Evaluation.
+
+## Featured work
+
+These projects best represent the problems I work on and the skills I am developing.
+
+### Applied AI & technology
+
+| Project | What it does | Focus |
 |---|---|---|
-| [CivicFix AI](https://github.com/aluong-kon/CivicFix-ai) | AI-assisted civic reporting for community infrastructure challenges. | AI, software development |
-| [NyumbaGO 360 Tour](https://github.com/aluong-kon/NyumbaGo-360-Tour-) | A technology concept focused on affordable housing discovery and rental solutions. | Web development |
-| **NileAI** | Exploring AI-powered language technology for African languages, starting with Dinka. | NLP, AI |
-| **Kakuma Youth Employment Analysis** | Analysis of youth employment patterns and socioeconomic insights. | Python, SQL, Power BI |
-| **Online Retail EDA** | Exploratory analysis of a retail dataset containing 541,909 transactions. | Python, Pandas |
-| **Telco Customer Churn** | Exploring customer churn patterns and business insights. | Python, data analytics |
+| [CivicFix AI](https://github.com/aluong-kon/CivicFix-ai) | A civic-reporting prototype that explores photo, voice, and location-based infrastructure reporting, with AI-assisted classification and prioritization. Its demo pipeline was tested against 247 prepared reports. | Applied AI · Civic tech |
+| [Nile AI](https://github.com/aluong-kon/Nile-Ai-) | A Dinka-focused language technology project combining a web interface and FastAPI backend for language interaction, translation experiments, and speech features. | NLP · Language technology |
+| [NyumbaGO 360 Tour](https://github.com/aluong-kon/NyumbaGo-360-Tour-) | An early rental-discovery application concept for Kenya, with budget-first search, map-based discovery, and 360-tour workflows. | Product engineering · PropTech |
 
-*Some projects are ongoing or experimental. Visit my repositories for the latest code and project status.*
+### Data analytics
 
----
+| Project | What I investigated | Tools |
+|---|---|---|
+| [Kakuma Youth Unemployment Analysis](https://github.com/aluong-kon/Kakuma-Youth-Unemployment) | Youth employment patterns, gender differences, and barriers to economic participation in Kakuma. | Python · SQL · Power BI |
+| [Online Retail Sales Analysis](https://github.com/aluong-kon/Online-Retail-Analysis-Internship-By-AnalystLab-Africa-) | A transactional retail dataset of 541,909 records, explored through data cleaning, feature engineering, and business-focused EDA. | Python · Pandas · NumPy |
+| [Telco Customer Churn](https://github.com/aluong-kon/Telco-Customer-Churn-) | Customer churn patterns across contract type, tenure, service usage, and billing characteristics, translated into retention recommendations. | Python · Pandas · Visualization |
 
-## 🛠️ Languages, Tools & Technologies
+*Some projects are prototypes or works in progress. Their READMEs describe current implementation, setup requirements, and known limitations.*
 
-**Programming & Development**
+## Technical toolkit
 
-Python · SQL · JavaScript · HTML · CSS
+**Data analytics**  
+Python · SQL · Pandas · NumPy · Excel · Power BI · Tableau · Matplotlib · Seaborn
 
-**Data Analytics & Visualization**
+**AI & development**  
+LLM application experiments · NLP concepts · Hugging Face · FastAPI · JavaScript · HTML · CSS
 
-Pandas · NumPy · Matplotlib · Seaborn · Power BI · Tableau · Excel
+**Databases & platforms**  
+PostgreSQL · MySQL · Supabase · Google Colab · Jupyter Notebook · Git · GitHub
 
-**AI & Machine Learning**
-
-Generative AI · Large Language Models · Natural Language Processing · Hugging Face · Google Colab
-
-**Databases & Developer Tools**
-
-MySQL · PostgreSQL · Supabase · Git · GitHub · VS Code · Jupyter Notebook
-
-**Platforms & No-Code Tools**
-
+**Product and workflow tools**  
 Lovable · AppSheet · Google Sheets · Looker Studio
 
----
+I continue to strengthen my foundations in statistics, machine learning, software engineering, and production AI systems. I aim to demonstrate skills through working projects, reproducible analysis, and clear documentation—not tool lists alone.
 
-## 📊 GitHub Statistics
+## What I am working toward
+
+- Building stronger end-to-end data analytics and business intelligence projects.
+- Developing practical machine learning skills through reproducible experiments and evaluation.
+- Building reliable AI-enabled applications, especially for African languages and community services.
+- Improving deployment, testing, API design, and data engineering foundations.
+- Collaborating with teams working on digital inclusion, civic technology, and social impact.
+
+## GitHub activity
+
+<div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aluong-kon&show_icons=true&theme=tokyonight&hide_border=true)
 
@@ -69,50 +88,22 @@ Lovable · AppSheet · Google Sheets · Looker Studio
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=aluong-kon&theme=tokyonight&hide_border=true)
 
----
+</div>
 
-## 🏆 GitHub Trophies
+## Beyond the code
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aluong-kon&theme=tokyonight&no-frame=true&row=1)
+I care about technology that expands opportunity. My interests include refugee-led innovation, youth employment, digital inclusion, African language preservation, civic participation, and data-informed development.
 
----
+I believe strong technology starts with understanding the problem, listening to the people affected, and testing whether the solution actually works.
 
-## 🌍 Beyond the Code
+## Connect
 
-I believe technology should be accessible to everyone, regardless of their background or geographical location.
+- **LinkedIn:** [Aluong Yak Kon](https://www.linkedin.com/in/aluong-kon/)
+- **Email:** [aluongyakkon23@gmail.com](mailto:aluongyakkon23@gmail.com)
+- **GitHub:** [@aluong-kon](https://github.com/aluong-kon)
 
-My interests include:
+<div align="center">
 
-- 🌍 Digital inclusion and refugee innovation.
-- 🤖 Artificial intelligence for African communities.
-- 📊 Data-driven decision-making and development.
-- 🚀 Youth entrepreneurship and innovation.
-- 🕊️ Civic technology and community empowerment.
+*Build with purpose. Measure what matters. Keep learning.*
 
-I'm particularly interested in building solutions that address challenges in Kakuma, South Sudan, Kenya, and across Africa.
-
----
-
-## 🤝 Let's Connect
-
-- 💼 **LinkedIn:** [Aluong Yak Kon](https://www.linkedin.com/in/aluong-kon/)
-- 📧 **Email:** [aluongyakkon23@gmail.com](mailto:aluongyakkon23@gmail.com)
-- 💻 **GitHub:** [@aluong-kon](https://github.com/aluong-kon)
-
-I'm always interested in connecting with developers, data professionals, founders, researchers, and organizations building meaningful solutions.
-
----
-
-## ⚡ Fun Fact
-
-I don't just learn technology to understand how it works. I learn it to discover what I can build with it.
-
-One day, it's a dashboard. The next day, it's an AI experiment for an African language. The possibilities are endless.
-
-<p align="center">
-  <i>"The goal isn't just to understand the future. It's to build it."</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aluong-kon&label=Profile%20Views&color=blue&style=flat" alt="Profile views" />
-</p>
+</div>
